@@ -1,4 +1,4 @@
-#[中文翻译](./README_cn.md)
+#[中文翻译](./README.md)
 
 ## Introduction
 
