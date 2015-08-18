@@ -1,3 +1,5 @@
+#[中文翻译](./README_cn.md)
+
 ## Introduction
 
 node-webkit is an app runtime based on `Chromium` and `node.js`. You can 
