@@ -1,8 +1,8 @@
 #[英文原版](./README_us.md)
 
-> 译者: [王东(mcdongWang)](github.com/mcdongWang)
+> 译者: [王东(mcdongWang)](https://github.com/mcdongWang)
 
-> 译者: [方玉昕(bereniceFang)](github.com/bereniceFang)
+> 译者: [方玉昕(bereniceFang)](https://github.com/bereniceFang)
 
 ## 介绍
 
