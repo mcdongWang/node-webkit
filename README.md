@@ -1,7 +1,9 @@
 #[英文原版](./README_us.md)
 
-## 介绍
+> 译者: [王东(mcdongWang)](github.com/mcdongWang)
+> 译者: [方玉昕(bereniceFang)](github.com/bereniceFang)
 
+## 介绍
 
 node-webkit 是一个基于 `Chromium` 和 `node.js` 的本地应用软件运行时. 你可以通过 node-webkit , 使用 HTML 和 JavaScript 来编写本地应用软件. 它也可以让你直接从 DOM 调用 Node.js 的模块. 是一个新的允许用所有 Web 技术来编写本地应用软件的方法.
 
